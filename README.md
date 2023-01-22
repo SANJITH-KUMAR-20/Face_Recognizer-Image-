@@ -8,6 +8,9 @@ This Mini project uses OpenCV to detect faces based on the trained data
 You'll find two python files
 --> face_recognition
 --> Face_recognizer
+
+
+
 You'll also find one xml file
 --> haar_face (haarcascade classifier)
 
