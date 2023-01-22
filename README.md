@@ -8,6 +8,9 @@ This Mini project uses OpenCV to detect faces based on the trained data
 You'll find two python files
 --> face_recognition
 --> Face_recognizer
+You'll also find one xml file
+--> haar_face (haarcascade classifier)
+
 
 
 The first python file trains a opencv on the given pictures of three people as you'll see in the file.
@@ -30,3 +33,6 @@ This model can be trained on basis on facial recognition and one can use more da
 
 
 The data given in the 'TRAIN AND VALIDATION DATA' is a simple sample
+
+Both the python file uses harcascade classifier... this is one of the bad classifier you can choose but not the worst there are better ones... but this what i used
+
